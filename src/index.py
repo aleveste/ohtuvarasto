@@ -49,8 +49,8 @@ def main():
 
     print(f"Mehuvarasto: {mehua}")
     print("mehua.otaVarastosta(-32.9)")
-    saatiin = mehua.ota_varastosta(-32.9)
-    print(f"saatiin {saatiin}")
+    saatiin1 = mehua.ota_varastosta(-32.9)
+    print(f"saatiin {saatiin1}")
     print(f"Mehuvarasto: {mehua}")
 
 
